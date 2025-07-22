@@ -1,0 +1,15 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Disallow: /cgi-bin/
+Disallow: /tag/
+Disallow: /*/testimonials/
+Disallow: /*/feed/
+Disallow: /comments/feed/
+Disallow: /*?
+
+Sitemap: https://binarymetrix.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
